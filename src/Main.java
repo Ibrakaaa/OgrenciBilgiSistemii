@@ -11,7 +11,7 @@ public class Main {
             System.out.println(i);
 
         }
-        System.out.println("-------------------");
+        System.out.println("------------------");
 
         for(int i=1;i<=k; i*=5){
             System.out.println(i);
